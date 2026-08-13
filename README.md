@@ -8,7 +8,7 @@ QC + AI/ML @ **PsiQuantum** · PhD Chemical Engineering, **Notre Dame**
 
 <br />
 
-**[✦ Enter the interactive lab — Three.js portfolio](https://theosaroj.github.io)**
+**[✦ Enter my interactive lab ](https://theosaroj.github.io)**
 
 Classical Monte Carlo & MD → quantum chemistry → MLIPs → active learning → agentic AI.
 
