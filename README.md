@@ -64,18 +64,18 @@ Languages: **Python · JavaScript · TypeScript · C++ · Fortran · Bash · Tcl
 
 ### Papers (selected)
 
-- **RLEASE** — Reinforcement Learning Efficient Active Space Engine  
-- **MLIPilot** — LLM-Driven Auto-Research for Machine-Learned Interatomic Potentials  
-- **PPO-GPR** — *ACS Engineering Au* (2026)  
-- Active learning of alchemical adsorption simulations — *Chemical Science* (2024)  
-- Adsorption prediction in MOFs with Q-learning — *AIChE Journal* (2024)  
-- Multi-component gas adsorption AL in a MOF — *Digital Discovery* (2023)  
+- **RLEASE** — Reinforcement Learning Efficient Active Space Engine
+- **MLIPilot** — LLM-Driven Auto-Research for Machine-Learned Interatomic Potentials
+- **PPO-GPR** — *ACS Engineering Au* (2026)
+- Active learning of alchemical adsorption simulations — *Chemical Science* (2024)
+- Adsorption prediction in MOFs with Q-learning — *AIChE Journal* (2024)
+- Multi-component gas adsorption AL in a MOF — *Digital Discovery* (2023)
 
 [Google Scholar](https://scholar.google.com/citations?user=1atU7lAAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0003-2744-339X)
 
 ---
 
-> **Public graph ≠ full output.** Most day-to-day commits are on private / company GitHub (PsiQuantum & prior industry). What you see here is the open slice.
+> **Public graph is not full output.** Most day-to-day commits are on private / company GitHub (PsiQuantum & prior industry). What you see here is the open slice.
 
 <div align="center">
 
