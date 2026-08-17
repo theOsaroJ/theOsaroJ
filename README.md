@@ -8,7 +8,7 @@ QC + AI/ML @ **PsiQuantum** · PhD Chemical Engineering, **Notre Dame**
 
 <br />
 
-**[✦ Enter my interactive lab ](https://theosaroj.github.io)**
+**[✦ Enter the interactive lab — Three.js portfolio](https://theosaroj.github.io)**
 
 Classical Monte Carlo & MD → quantum chemistry → MLIPs → active learning → agentic AI.
 
@@ -76,3 +76,11 @@ Languages: **Python · JavaScript · TypeScript · C++ · Fortran · Bash · Tcl
 ---
 
 > **Public graph ≠ full output.** Most day-to-day commits are on private / company GitHub (PsiQuantum & prior industry). What you see here is the open slice.
+
+<div align="center">
+
+### Contribution snake
+
+![GitHub Snake](https://raw.githubusercontent.com/theOsaroJ/theOsaroJ/output/snake.svg)
+
+</div>
